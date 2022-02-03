@@ -4608,3 +4608,7 @@ body.is-preload #banner .actions {
     display: block;
     margin: 0 auto;
 }
+
+.contactIcons {
+    margin-bottom: 1rem !important;
+}
